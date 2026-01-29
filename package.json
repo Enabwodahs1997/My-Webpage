@@ -1,0 +1,30 @@
+{
+  "name": "personal-project",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000y\u0000-\u0000W\u0000e\u0000b\u0000p\u0000a\u0000g\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enabwodahs1997/My-Webpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Enabwodahs1997/My-Webpage/issues"
+  },
+  "homepage": "https://github.com/Enabwodahs1997/My-Webpage#readme",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "vite": "^7.3.1"
+  }
+}
